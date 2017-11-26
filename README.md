@@ -1,1 +1,3 @@
 # Learnings
+
+## Author : Sadikshya Adhikary
